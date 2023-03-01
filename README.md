@@ -11,8 +11,8 @@
 
 **Languages**
 
-| <img alt="c++" src="https://www.linkpicture.com/q/c_44.png" width=40/> | <img alt="Python" src="https://www.linkpicture.com/q/python_1.svg" width=40/> | <img alt="Java" src="https://www.linkpicture.com/q/java_1.svg" width=40/> | <img alt="JavaScript" src="https://www.linkpicture.com/q/javascript_1.svg" width=40 /> |
-| -- | -- | -- | -- | 
+| <img alt="c++" src="https://www.linkpicture.com/q/c_44.png" width=40/> | <img alt="Python" src="https://www.linkpicture.com/q/python_1.svg" width=40/> | <img alt="Java" src="https://www.linkpicture.com/q/java_1.svg" width=40/> | <img alt="JavaScript" src="https://www.linkpicture.com/q/javascript_1.svg" width=40 /> | <img  alt="C#" src="https://linkpicture.com/q/csharp.svg" width=40 /> |
+| -- | -- | -- | -- | -- |
 
 **Tools**
 
