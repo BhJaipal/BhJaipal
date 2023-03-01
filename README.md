@@ -9,10 +9,10 @@
 
 **Languages**
 
-| ![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000) | ![Python](https://img.shields.io/badge/--blue?logo=python&logoColor=F7DF1E) | ![C#](https://img.shields.io/badge/--fff?logo=csharp&logoColor=70f&style=plastic) | ![C++](https://img.shields.io/badge/--ff9?logo=cplusplus&logoColor=05f&style=plastic) |  
-| -- | -- | -- | -- |
+| <img alt="c++" src="https://www.linkpicture.com/q/c_44.png" width=40/> | <img alt="Python" src="https://www.linkpicture.com/q/python_1.svg" width=40/> | <img alt="Java" src="https://www.linkpicture.com/q/java_1.svg" width=40/> | <img alt="JavaScript" src="https://www.linkpicture.com/q/javascript_1.svg" width=40 /> |
+| -- | -- | -- | -- | 
 
 **Tools**
 
-| ![Visual Studio Code](https://img.shields.io/badge/V_S_Code-007ACC?logo=visual%20studio%20code&logoColor=3f3f8f) |
+| ![Visual Studio Code](https://img.shields.io/badge/V_S_Code-007ACC?logo=visual%20studio%code) |
 | -- |
