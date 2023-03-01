@@ -5,6 +5,8 @@
 - 📫 How to reach me: Instagram, [jaipalbh7](https://www.instagram.com/jaipalbh7/)
 - 😄 Pronouns: he
 
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/debarghamitraroy/)
+
 ![](https://visitor-badge.glitch.me/badge?page_id=BhJaipal) 
 
 **Languages**
@@ -14,5 +16,10 @@
 
 **Tools**
 
-| ![Visual Studio Code](https://img.shields.io/badge/V_S_Code-007ACC?logo=visual%20studio%code) |
+| <img alt="Visual Studio Code" src="https://www.linkpicture.com/q/vscode.svg" width=40 /> |
 | -- |
+
+**Frameworks**
+
+| <img alt="ReactJS" width="40px" src="https://www.linkpicture.com/q/react.svg"/> | <img alt="Android" width="40px" src="https://www.linkpicture.com/q/android.svg"/> | <img alt="ReactJS" width="40px" src="https://www.linkpicture.com/q/Kivymd.svg"/> |
+| -- | -- | -- |
