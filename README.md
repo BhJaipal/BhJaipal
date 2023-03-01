@@ -28,6 +28,8 @@
 | -- | -- |
 
 # Stats
-<img src="https://github-readme-stats.vercel.app/api?username=BhJaipal&count_private=true&show_icons=true&theme=algolia" style="margin-right:20px"/>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhJaipal&theme=transparent)](https://github.com/BhJaipal/github-readme-stats)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=BhJaipal&show_icons=true&theme=algolia" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhJaipal&theme=transparent)](https://github.com/BhJaipal/github-readme-stats)
