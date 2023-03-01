@@ -29,6 +29,6 @@
 
 # Stats
 
-![Jaipal GitHub stats](https://github-readme-stats.vercel.app/api?username=BhJaipal&show_icons=true&theme=algolia)
+![Jaipal GitHub stats](https://github-readme-stats.vercel.app/api?username=BhJaipal&PAT_1=true&show_icons=true&theme=algolia)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhJaipal&theme=transparent)](https://github.com/BhJaipal/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhJaipal&PAT_1=true&theme=transparent)](https://github.com/BhJaipal/github-readme-stats)
