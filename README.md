@@ -29,7 +29,6 @@
 
 # Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BhJaipal&show_icons=true&theme=algolia" /></p>
+![Jaipal GitHub stats](https://github-readme-stats.vercel.app/api?username=BhJaipal&show_icons=true&theme=algolia)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhJaipal&theme=transparent)](https://github.com/BhJaipal/github-readme-stats)
