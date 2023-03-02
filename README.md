@@ -6,6 +6,7 @@
 - 😄 Pronouns: he
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/debarghamitraroy/)
+
 ![visits](https://visitor-badge.glitch.me/badge?page_id=BhJaipal) 
 
 <p align="center">
@@ -24,7 +25,7 @@
 
 **Frameworks**
 
-| <img alt="ReactJS" width="40px" src="https://www.linkpicture.com/q/react.svg"/> | <img alt="Android" width="40px" src="https://www.linkpicture.com/q/android.svg"/> | <img src="logo-kivymd.jpg"  width=30 /> |
+| <img alt="ReactJS" width="40px" src="https://www.linkpicture.com/q/react.svg"/> | <img alt="Android" width="40px" src="https://www.linkpicture.com/q/android.svg"/> | <img src="logo-kivymd.jpg"  width=40 /> |
 | -- | -- | -- |
 
 # Stats
