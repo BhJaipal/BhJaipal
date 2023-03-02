@@ -24,8 +24,8 @@
 
 **Frameworks**
 
-| <img alt="ReactJS" width="40px" src="https://www.linkpicture.com/q/react.svg"/> | <img alt="Android" width="40px" src="https://www.linkpicture.com/q/android.svg"/> |
-| -- | -- |
+| <img alt="ReactJS" width="40px" src="https://www.linkpicture.com/q/react.svg"/> | <img alt="Android" width="40px" src="https://www.linkpicture.com/q/android.svg"/> | <img src="logo-kivymd.jpg"  width=30 /> |
+| -- | -- | -- |
 
 # Stats
 
