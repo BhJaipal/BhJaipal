@@ -7,8 +7,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/debarghamitraroy/)
 
-<p align="center">
-<img alt="visits" src="https://visitor-badge.glitch.me/badge?page_id=BhJaipal" /></p>
+![visits](https://visitor-badge.glitch.me/badge?page_id=BhJaipal)
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=BhJaipal&theme=discord&no-bg=true"/>
