@@ -7,8 +7,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/debarghamitraroy/)
 
-![visits](https://visitor-badge.glitch.me/badge?page_id=BhJaipal)
-
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=BhJaipal&theme=discord&no-bg=true"/>
 </p>
@@ -20,7 +18,7 @@
 
 **Tools**
 
-| <img alt="Visual Studio Code" src="https://linkpicture.com/q/vscode_1.png" width=40 /> | <img alt="Github" width="40px" src="https://www.linkpicture.com/q/github-octocat.svg"/> | <img alt="Git" width="40px" src="https://www.linkpicture.com/q/git-scm.svg"/> |
+| <img alt="Visual Studio Code" src="vscode.png" width=40 /> | <img alt="Github" width="40px" src="https://www.linkpicture.com/q/github-octocat.svg"/> | <img alt="Git" width="40px" src="https://www.linkpicture.com/q/git-scm.svg"/> |
 | -- | -- | -- |
 
 **Frameworks**
