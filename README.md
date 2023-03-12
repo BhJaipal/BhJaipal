@@ -18,7 +18,7 @@
 
 **Tools**
 
-| <img alt="Visual Studio Code" src="vscode.png" width=40 /> | <img alt="Github" width="40px" src="https://www.linkpicture.com/q/github-octocat.svg"/> | <img alt="Git" width="40px" src="https://www.linkpicture.com/q/git-scm.svg"/> |
+| <img alt="Visual Studio Code" src="https://linkpicture.com/q/vscode.svg" width=40 /> | <img alt="Github" width="40px" src="https://www.linkpicture.com/q/github-octocat.svg"/> | <img alt="Git" width="40px" src="https://www.linkpicture.com/q/git-scm.svg"/> |
 | -- | -- | -- |
 
 **Frameworks**
