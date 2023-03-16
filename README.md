@@ -5,7 +5,7 @@
 - 📫 How to reach me: Instagram, [jaipalbh7](https://www.instagram.com/jaipalbh7/)
 - 😄 Pronouns: he
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/debarghamitraroy/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaipalbh7/)
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=BhJaipal&theme=discord&no-bg=true"/>
@@ -30,4 +30,4 @@
 
 ![Jaipal GitHub stats](https://github-readme-stats.vercel.app/api?username=BhJaipal&PAT_1=true&show_icons=true&theme=algolia)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhJaipal&PAT_1=true&theme=transparent)](https://github.com/BhJaipal/github-readme-stats)
+[![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=BhJaipal&PAT_1=true&theme=transparent)](https://github.com/BhJaipal/github-readme-stats)
