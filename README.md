@@ -31,3 +31,8 @@
 ![Jaipal GitHub stats](https://github-readme-stats.vercel.app/api?username=BhJaipal&PAT_1=true&show_icons=true&theme=algolia)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhJaipal&PAT_1=true&theme=transparent)](https://github-readme-stats.vercel.app/api/top-langs/?username=BhJaipal&PAT_1=true&theme=transparent)
+
+# Badges
+
+| Python [![Python](https://img.shields.io/badge/Python-06a?logo=python&logoColor=F7DF1E)](https://www.python.org/) | VS Code [![Visual Studio Code](https://img.shields.io/badge/V_S_Code-007ACC?logo=visual%20studio%20code&logoColor=3f3f8f)](https://code.visualstudio.com/) | GitHub [![GitHub](https://badgen.net/badge/icon/github?icon=github&label&color=black)](https://github.com) | VSCode Insiders ![VS Code Insiders](https://img.shields.io/badge/VS_Insiders-3F3F8F?style=for-the-badge&logo=visual%20studio%20code&logoColor=12b889&style=plastic) | C++ ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&style=plastic) | JavaScript [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/) |
+| -- | -- | -- | -- | -- | --|
