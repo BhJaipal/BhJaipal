@@ -18,13 +18,13 @@
 
 **Tools**
 
-| <img alt="Visual Studio Code" src="https://linkpicture.com/q/vscode.svg" width=40 /> | <img alt="Github" width="40px" src="https://www.linkpicture.com/q/github-octocat.svg"/> | <img alt="Git" width="40px" src="https://www.linkpicture.com/q/git-scm.svg"/> |
+| <img alt="Visual Studio Code" src="https://linkpicture.com/q/vscode.png" width=40 /> | <img alt="Github" width="40px" src="https://www.linkpicture.com/q/github-octocat.svg"/> | <img alt="Git" width="40px" src="https://www.linkpicture.com/q/git-scm.svg"/> |
 | -- | -- | -- |
 
 **Frameworks**
 
-| <img alt="ReactJS" width="40px" src="https://www.linkpicture.com/q/react.svg"/> | <img alt="Android" width="40px" src="https://www.linkpicture.com/q/android.svg"/> | <img src="logo-kivymd.jpg"  width=40 /> |
-| -- | -- | -- |
+| <img alt="ReactJS" width="40px" src="https://www.linkpicture.com/q/react.svg"/> | <img alt="Android" width="40px" src="https://www.linkpicture.com/q/android.svg"/> |
+| -- | -- |
 
 # Stats
 
