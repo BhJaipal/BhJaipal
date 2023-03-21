@@ -28,9 +28,15 @@
 
 # Stats
 
-![Jaipal GitHub stats](https://github-readme-stats.vercel.app/api?username=BhJaipal&PAT_1=true&show_icons=true&theme=algolia)
+![Jaipal GitHub stats](https://github-readme-stats.vercel.app/api?username=BhJaipal&PAT_1=false&show_icons=true&theme=algolia)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhJaipal&PAT_1=true&theme=transparent)](https://github-readme-stats.vercel.app/api/top-langs/?username=BhJaipal&PAT_1=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhJaipal&PAT_1=false&theme=transparent)](https://github-readme-stats.vercel.app/api/top-langs/?username=BhJaipal&PAT_1=true&theme=transparent)
+
+# Repositories 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BhJaipal&repo=Python-Module&theme=algolia)](https://github.com/BhJaipal/Python-Module)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BhJaipal&repo=Simple-programs&theme=algolia)](https://github.com/BhJaipal/Simple-programs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BhJaipal&repo=Javascript_use&theme=algolia)](https://github.com/BhJaipal/Javascript_use)
 
 # Badges
 
