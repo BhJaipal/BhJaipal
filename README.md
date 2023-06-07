@@ -13,8 +13,8 @@
 
 **Languages**
 
-| <img alt="c++" src="https://www.linkpicture.com/q/c_44.png" width=40/> | <img alt="Python" src="https://www.linkpicture.com/q/python_1.svg" width=40/> | <img alt="Java" src="https://www.linkpicture.com/q/java_1.svg" width=40/> | <img alt="JavaScript" src="https://www.linkpicture.com/q/javascript_1.svg" width=40 /> | <img  alt="C#" src="https://linkpicture.com/q/csharp.svg" width=40 /> |
-| -- | -- | -- | -- | -- |
+| <img alt="c++" src="https://www.linkpicture.com/q/c_44.png" width=40/> | <img alt="Python" src="https://www.linkpicture.com/q/python_1.svg" width=40/> | <img alt="Java" src="https://www.linkpicture.com/q/java_1.svg" width=40/> | <img alt="JavaScript" src="https://www.linkpicture.com/q/javascript_1.svg" width=40 /> | <img alt="C#" src="https://linkpicture.com/q/csharp.svg" width=40 /> | <img alt="TypeScript" src="https://linkpicture.com/q/ts.svg" width=40 />
+| -- | -- | -- | -- | -- | -- |
 
 **Tools**
 
@@ -40,7 +40,7 @@
 
 # Badges
 
-| Python [![Python](https://img.shields.io/badge/Python-06a?logo=python&logoColor=F7DF1E)](https://www.python.org/) | VS Code [![Visual Studio Code](https://img.shields.io/badge/V_S_Code-007ACC?logo=visual%20studio%20code&logoColor=3f3f8f)](https://code.visualstudio.com/) | GitHub [![GitHub](https://badgen.net/badge/icon/github?icon=github&label&color=black)](https://github.com) | VSCode Insiders ![VS Code Insiders](https://img.shields.io/badge/VS_Insiders-3F3F8F?style=for-the-badge&logo=visual%20studio&logoColor=12b889&style=plastic) | C++ ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&style=plastic) | JavaScript [![TypeScript](https://linkpicture.com/q/ts.svg)](https://www.typescriptlang.org/) | Android ![Android](https://img.shields.io/badge/--007ACC?logo=android&logoColor=12b889) |
+| Python [![Python](https://img.shields.io/badge/Python-06a?logo=python&logoColor=F7DF1E)](https://www.python.org/) | VS Code [![Visual Studio Code](https://img.shields.io/badge/V_S_Code-007ACC?logo=visual%20studio%20code&logoColor=3f3f8f)](https://code.visualstudio.com/) | GitHub [![GitHub](https://badgen.net/badge/icon/github?icon=github&label&color=black)](https://github.com) | VSCode Insiders ![VS Code Insiders](https://img.shields.io/badge/VS_Insiders-3F3F8F?style=for-the-badge&logo=visual%20studio&logoColor=12b889&style=plastic) | C++ ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&style=plastic) | JavaScript [![TypeScript](https://img.shields.io/badge/TypeScript.svg?logo=typescript)](https://www.typescriptlang.org/) | Android ![Android](https://img.shields.io/badge/--007ACC?logo=android&logoColor=12b889) |
 | -- | -- | -- | -- | -- | -- | -- |
 
 # VS Code recommendations
