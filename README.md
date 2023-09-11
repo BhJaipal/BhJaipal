@@ -36,7 +36,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BhJaipal&repo=Python-Module&theme=algolia&PAT_1=true&show_owner=true)](https://github.com/BhJaipal/Python-Module)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BhJaipal&repo=Simple-programs&theme=algolia&PAT_1=true&show_owner=true)](https://github.com/BhJaipal/Simple-programs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BhJaipal&repo=Express-and-CodingHub&theme=algolia&PAT_1=true&show_owner=true)](https://github.com/BhJaipal/Javascript_use)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BhJaipal&repo=Express-and-CodingHub&theme=algolia&PAT_1=true&show_owner=true)](https://github.com/BhJaipal/Express-and-CodingHub)
 
 # Badges
 
