@@ -13,12 +13,12 @@
 
 **Languages**
 
-| <img alt="c++" src="https://www.linkpicture.com/q/c_44.png" width=40/> | <img alt="Python" src="https://www.linkpicture.com/q/python_1.svg" width=40/> | <img alt="Java" src="https://www.linkpicture.com/q/java_1.svg" width=40/> | <img alt="JavaScript" src="https://www.linkpicture.com/q/javascript_1.svg" width=40 /> | <img alt="C#" src="https://linkpicture.com/q/csharp.svg" width=40 /> | <img alt="TypeScript" src="https://linkpicture.com/q/ts.svg" width=40 />
-| -- | -- | -- | -- | -- | -- |
+| <img alt="c++" src="https://www.linkpicture.com/q/c_44.png" width=40/> | <img alt="Python" src="https://www.linkpicture.com/q/python_1.svg" width=40/> | <img alt="Java" src="https://www.linkpicture.com/q/java_1.svg" width=40/> | <img alt="JavaScript" src="https://www.linkpicture.com/q/javascript_1.svg" width="40" /> | <img alt="TypeScript" src="https://linkpicture.com/q/ts.svg" width="40px" /> |
+| -- | -- | -- | -- | -- |
 
 **Tools**
 
-| <img alt="Visual Studio Code" src="https://linkpicture.com/q/vscode.svg" width=40 /> | <img alt="Github" width="40px" src="https://www.linkpicture.com/q/github-octocat.svg"/> | <img alt="Git" width="40px" src="https://www.linkpicture.com/q/git-scm.svg"/> |
+| <img alt="Visual Studio Code" src="https://linkpicture.com/q/vscode.svg" width="40px" /> | <img alt="Github" width="40px" src="https://www.linkpicture.com/q/github-octocat.svg"/> | <img alt="Git" width="40px" src="https://www.linkpicture.com/q/git-scm.svg"/> |
 | -- | -- | -- |
 
 **Frameworks**
@@ -36,7 +36,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BhJaipal&repo=Python-Module&theme=algolia&PAT_1=true&show_owner=true)](https://github.com/BhJaipal/Python-Module)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BhJaipal&repo=Simple-programs&theme=algolia&PAT_1=true&show_owner=true)](https://github.com/BhJaipal/Simple-programs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BhJaipal&repo=Javascript_use&theme=algolia&PAT_1=true&show_owner=true)](https://github.com/BhJaipal/Javascript_use)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BhJaipal&repo=Express-and-CodingHub&theme=algolia&PAT_1=true&show_owner=true)](https://github.com/BhJaipal/Javascript_use)
 
 # Badges
 
