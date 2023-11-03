@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning React JS
-- 🤔 I’m looking for help with learning React JS
+- 🌱 I’m currently learning Nuxt and C/C++
+- 🤔 I’m looking for help with learning Nuxt and C/C++
 - 📫 How to reach me: Instagram, [jaipalbh7](https://www.instagram.com/jaipalbh7/)
 - 😄 Pronouns: he
 
@@ -13,8 +13,8 @@
 
 **Languages**
 
-| <img alt="c++" src="https://www.linkpicture.com/q/c_44.png" width=40/> | <img alt="Python" src="https://www.linkpicture.com/q/python_1.svg" width=40/> | <img alt="Java" src="https://www.linkpicture.com/q/java_1.svg" width=40/> | <img alt="JavaScript" src="https://www.linkpicture.com/q/javascript_1.svg" width="40" /> | <img alt="TypeScript" src="https://linkpicture.com/q/ts.svg" width="40px" /> |
-| -- | -- | -- | -- | -- |
+| <img alt="Python" src="https://www.linkpicture.com/q/python_1.svg" width=40/> | <img alt="Java" src="https://www.linkpicture.com/q/java_1.svg" width=40/> | <img alt="JavaScript" src="https://www.linkpicture.com/q/javascript_1.svg" width="40" /> | <img alt="TypeScript" src="https://linkpicture.com/q/ts.svg" width="40px" /> |
+| -- | -- | -- | -- |
 
 **Tools**
 
