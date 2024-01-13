@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Nuxt and C/C++
-- 🤔 I’m looking for help with learning Nuxt and C/C++
+- 🌱 I’m currently learning Nuxt and Svelte Kit 
+- 🤔 I’m looking for help with learning Nuxt and Svelte Kit
 - 📫 How to reach me: Instagram, [jaipalbh7](https://www.instagram.com/jaipalbh7/)
 - 😄 Pronouns: he
 
