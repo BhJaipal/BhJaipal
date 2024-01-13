@@ -33,6 +33,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhJaipal&PAT_1=true&theme=transparent)](https://github-readme-stats.vercel.app/api/top-langs/?username=BhJaipal&PAT_1=true&theme=transparent)
 
+# Current Working Repo
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BhJaipal&repo=sveltekit-use&theme=algolia&PAT_1=true&show_owner=true)](https://github.com/BhJaipal/sveltekit-use)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BhJaipal&repo=digital-marketing&theme=algolia&PAT_1=true&show_owner=true)](https://github.com/BhJaipal/digital-marketing)
+
 # Repositories 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BhJaipal&repo=Python-Module&theme=algolia&PAT_1=true&show_owner=true)](https://github.com/BhJaipal/Python-Module)
