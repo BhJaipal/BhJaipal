@@ -4,6 +4,7 @@
 - 🤔 I’m looking for help with learning Nuxt and Svelte Kit
 - 📫 How to reach me: Instagram, [jaipalbh7](https://www.instagram.com/jaipalbh7/)
 - 😄 Pronouns: he
+OS: ![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaipalbh7/)
 
