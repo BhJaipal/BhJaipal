@@ -19,8 +19,8 @@
 
 **Tools**
 
-| Code Sandbox ![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB) |	Stackblitz ![Stackblitz](https://img.shields.io/badge/Stackblitz-fff?style=for-the-badge&logo=Stackblitz&logoColor=1389FD) | VSCode ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | Neovim ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) |
-| -- | -- | -- | -- |
+| Code Sandbox ![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB) |	Stackblitz ![Stackblitz](https://img.shields.io/badge/Stackblitz-fff?style=for-the-badge&logo=Stackblitz&logoColor=1389FD) | VSCode ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | Neovim ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) | Github ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | Git ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+| -- | -- | -- | -- | -- | -- |
 
 **Frameworks**
 
@@ -35,7 +35,7 @@
 
 # Repositories 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BhJaipal&repo=Python-Module&theme=algolia&PAT_1=true&show_owner=true)](https://github.com/BhJaipal/Python-Module)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BhJaipal&repo=&theme=algolia&PAT_1=true&show_owner=true)](https://github.com/BhJaipal/Python-Module)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BhJaipal&repo=Simple-programs&theme=algolia&PAT_1=true&show_owner=true)](https://github.com/BhJaipal/Simple-programs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BhJaipal&repo=Express-and-CodingHub&theme=algolia&PAT_1=true&show_owner=true)](https://github.com/BhJaipal/Express-and-CodingHub)
 
