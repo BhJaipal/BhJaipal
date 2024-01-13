@@ -23,7 +23,7 @@
 
 **Frameworks**
 
-| <img alt="Nuxt" width="40px" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82"/> | <img alt="Sveltekit" width="40px" src="https://img.shields.io/badge/Svelte_Kit-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white"/> |
+| <img alt="Nuxt" width="80px" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82"/> | <img alt="Sveltekit" width="80px" src="https://img.shields.io/badge/Svelte_Kit-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white"/> | <img alt="tailwindcss" width="80px" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 | -- | -- |
 
 # Stats
