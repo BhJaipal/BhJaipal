@@ -35,8 +35,8 @@
 
 # Current Working Repo
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BhJaipal&repo=sveltekit-use&theme=algolia&PAT_1=true&show_owner=true)](https://github.com/BhJaipal/sveltekit-use)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BhJaipal&repo=digital-marketing&theme=algolia&PAT_1=true&show_owner=true)](https://github.com/BhJaipal/digital-marketing)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BhJaipal&repo=snip-hub&theme=algolia&PAT_1=true&show_owner=true)](https://github.com/BhJaipal/snip-hub)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BhJaipal&repo=Programming&theme=algolia&PAT_1=true&show_owner=true)](https://github.com/BhJaipal/Programming)
 
 # Repositories 
 
