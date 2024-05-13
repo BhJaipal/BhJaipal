@@ -33,6 +33,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhJaipal&PAT_1=true&theme=transparent)](https://github-readme-stats.vercel.app/api/top-langs/?username=BhJaipal&PAT_1=true&theme=transparent)
 
+![](https://github-contributor-stats.vercel.app/api?username=BhJaipal&limit=5&theme=onedark&hide_border=true&card_width=550&combine_all_yearly_contributions=true)
+
 # Current Working Repo
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BhJaipal&repo=snip-hub&theme=algolia&PAT_1=true&show_owner=true)](https://github.com/BhJaipal/snip-hub)
