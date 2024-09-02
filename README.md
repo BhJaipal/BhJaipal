@@ -1,52 +1,27 @@
-### Hi there 👋
+# 💫 About Me:
+🔭 I’m currently working on GTK Usage<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with learning GTK in C/ C++<br>🌱 I’m currently learning GTK4<br>💬 You can ask me about Nuxt and vue<br>⚡ Fun fact: I like to watch anime
 
-- 🌱 I’m currently learning Nuxt and Svelte Kit 
-- 🤔 I’m looking for help with learning Nuxt and Svelte Kit
-- 📫 How to reach me: Instagram, [jaipalbh7](https://www.instagram.com/jaipalbh7/)
-- 😄 Pronouns: he
-- OS: ![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaipalbh7/)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaipalbh7) 
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=BhJaipal&theme=discord&no-bg=true"/>
-</p>
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BhJaipal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BhJaipal&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BhJaipal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-**Languages**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=BhJaipal&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-| C++ ![C++](https://img.shields.io/badge/-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&style=plastic) | TypeScript [![TypeScript](https://shields.io/badge/-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)](https://www.typescriptlang.org/) | C lang ![C](https://img.shields.io/badge/-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | Java ![Java](https://img.shields.io/badge/--%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | JavaScript ![JavaScript](https://img.shields.io/badge/--%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | Python ![Python](https://img.shields.io/badge/--3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Bash ![Shell](https://img.shields.io/badge/--%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) |
-| -- | -- | -- | -- | -- | -- | -- |
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-**Tools**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=BhJaipal&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-| Code Sandbox ![CodeSandbox](https://img.shields.io/badge/--040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB) |	Stackblitz ![Stackblitz](https://img.shields.io/badge/--fff?style=for-the-badge&logo=Stackblitz&logoColor=1389FD) | VSCode ![Visual Studio Code](https://img.shields.io/badge/--0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | Neovim ![Neovim](https://img.shields.io/badge/--%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) | Github ![GitHub](https://img.shields.io/badge/--%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | Git Bash ![Git](https://img.shields.io/badge/--%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
-| -- | -- | -- | -- | -- | -- |
+---
+[![](https://visitcount.itsvg.in/api?id=BhJaipal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-**Frameworks**
-
-| Nuxt ![Nuxt](https://img.shields.io/badge/--002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82) | Sveltekit ![Sveltekit](https://img.shields.io/badge/--%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) | TailwindCSS ![tailwindcss](https://img.shields.io/badge/--%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) | Vue ![vue](https://img.shields.io/badge/--%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) | Vue ![Vite](https://img.shields.io/badge/--%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) |
-| -- | -- | -- | -- | -- |
-
-# Stats
-
-![Jaipal GitHub stats](https://github-readme-stats.vercel.app/api?username=BhJaipal&PAT_1=true&show_icons=true&theme=algolia)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhJaipal&PAT_1=true&theme=transparent)](https://github-readme-stats.vercel.app/api/top-langs/?username=BhJaipal&PAT_1=true&theme=transparent)
-
-![](https://github-contributor-stats.vercel.app/api?username=BhJaipal&limit=5&theme=onedark&hide_border=true&card_width=550&combine_all_yearly_contributions=true)
-
-# Current Working Repo
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BhJaipal&repo=snip-hub&theme=algolia&PAT_1=true&show_owner=true)](https://github.com/BhJaipal/snip-hub)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BhJaipal&repo=Programming&theme=algolia&PAT_1=true&show_owner=true)](https://github.com/BhJaipal/Programming)
-
-# Repositories 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BhJaipal&repo=Python-Module&theme=algolia&PAT_1=true&show_owner=true)](https://github.com/BhJaipal/Python-Module)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BhJaipal&repo=SR-eBusiness-solutions&theme=algolia&PAT_1=true&show_owner=true)](https://github.com/BhJaipal/SR-eBusiness-solutions)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BhJaipal&repo=Express-and-CodingHub&theme=algolia&PAT_1=true&show_owner=true)](https://github.com/BhJaipal/Express-and-CodingHub)
-
-# Badges
-
-| Python [![Python](https://img.shields.io/badge/--06a?logo=python&logoColor=F7DF1E)](https://www.python.org/) | VS Code [![Visual Studio Code](https://img.shields.io/badge/--fff?logo=visual%20studio%20code&logoColor=007ACC)](https://code.visualstudio.com/) | GitHub [![GitHub](https://badgen.net/badge/icon/github?icon=github&label&color=black)](https://github.com) | VSCode Insiders ![VS Code Insiders](https://img.shields.io/badge/--3F3F8F?style=for-the-badge&logo=visual%20studio&logoColor=12b889&style=plastic) | C++ ![C++](https://img.shields.io/badge/-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&style=plastic) | TypeScript [![TypeScript](https://shields.io/badge/--3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)](https://www.typescriptlang.org/) | Android ![Android](https://img.shields.io/badge/--007ACC?logo=android&logoColor=12b889) |
-| -- | -- | -- | -- | -- | -- | -- |
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
