@@ -6,6 +6,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaipalbh7) 
 
 # 💻 Tech Stack:
+![Linux](https://img.shields.io/badge/Linux-fff.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Pop OS](https://img.shields.io/badge/Pop%20os-fff.svg?style=for-the-badge&logo=popos&logoColor=#0082DC)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
