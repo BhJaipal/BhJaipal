@@ -22,13 +22,13 @@
         <img alt="Pop OS" src="assets/pop-os.svg" width="30" />
       </th>
       <th>
-        <img alt="Shell Script" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png?20180723054350" width="30" />
+        <img alt="Shell Script" src="assets/bash.svg" width="30" />
       </th>
       <th>
-        <img alt="C++" src="assets/cpp3.svg" width="30" />
+        <img alt="C++" src="assets/cpp3.svg" width="35" />
       </th>
       <th>
-        <img alt="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917" width="30" />
+        <img alt="C" src="assets/c.png" width="30" />
       </th>
       <th>
         <img alt="CMake" src="assets/cmake.svg" width="30" />
@@ -76,7 +76,7 @@
         <img alt="Vuetify" src="assets/vuetify.svg" width="30" />
       </th>
       <th>
-        <img alt="Nuxt 3" src="asssets/nuxt.svg" width="30" />
+        <img alt="Nuxt 3" src="assets/nuxt.svg" width="30" />
       </th>
     </tr>
   </thead>
