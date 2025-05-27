@@ -1,11 +1,8 @@
 # 💫 About Me:
 
-🔭 I’m mostly use on C/C++, some rust, Go and TS
-
-🌱 I’m currently learning Low level programming
-
-💬 You can ask me about Nuxt and vue
-
+🔭 I’m mostly use on C/C++, some rust, Go and TS <br>
+🌱 I’m currently learning Low level programming<br>
+💬 You can ask me about Nuxt and vue<br>
 ⚡ Fun fact: I like to watch anime and listen to vocaloids like kaito, miku and meiko
 
 
