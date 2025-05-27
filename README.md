@@ -7,6 +7,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaipalbh7) 
+[![DEV TO](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?logo=devdotto)](https://dev.to/bhjaipal)
 
 # 💻 Tech Stack:
 
