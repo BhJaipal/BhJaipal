@@ -16,25 +16,25 @@
   <thead>
     <tr>
       <th>
-        <img alt="Linux" src="https://www.kernel.org/theme/images/logos/tux.png" width="30" />
+        <img alt="Linux" src="assets/linux.svg" width="30" />
       </th>
       <th>
-        <img alt="Pop OS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Pop%21_OS_Icon.svg/512px-Pop%21_OS_Icon.svg.png?20230629012841" width="30" />
+        <img alt="Pop OS" src="assets/pop-os.svg" width="30" />
       </th>
       <th>
         <img alt="Shell Script" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png?20180723054350" width="30" />
       </th>
       <th>
-        <img alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png?20170928190710" width="30" />
+        <img alt="C++" src="assets/cpp3.svg" width="30" />
       </th>
       <th>
         <img alt="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917" width="30" />
       </th>
       <th>
-        <img alt="CMake" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/CMake_logo.svg/512px-CMake_logo.svg.png?20240825160757" width="30" />
+        <img alt="CMake" src="assets/cmake.svg" width="30" />
       </th>
       <th>
-        <img alt="Meson" src="https://mesonbuild.com/assets/images/meson_logo.png" width="30" />
+        <img alt="Meson" src="assets/meson.svg" width="30" />
       </th>
     </tr>
   </thead>
