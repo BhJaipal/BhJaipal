@@ -61,22 +61,22 @@
   <thead>
     <tr>
       <th>
-        <img alt="Bun" src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white" />
+        <img alt="Bun" src="https://bun.sh/logo.svg" width="30" />
       </th>
       <th>
-        <img alt="TS" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img alt="TS" src="https://www.typescriptlang.org/favicon-32x32.png?v=8944a05a8b601855de116c8a56d3b3ae" width="30" />
       </th>
       <th>
-        <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+        <img alt="Vite" src="assets/vite.png" width="30" />
       </th>
       <th>
-        <img alt="Vue" src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
+        <img alt="Vue" src="assets/vue.png" width="30" />
       </th>
       <th>
-        <img alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF" />
+        <img alt="Vuetify" src="assets/vuetify.svg" width="30" />
       </th>
       <th>
-        <img alt="Nuxt 3" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt&logoColor=#00DC82" />
+        <img alt="Nuxt 3" src="asssets/nuxt.svg" width="30" />
       </th>
     </tr>
   </thead>
@@ -103,7 +103,7 @@
   <thead>
     <tr>
       <th>
-        <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+        <img alt="MongoDB" src="https://www.mongodb.com/assets/images/global/favicon.ico" width="30" />
       </th>
     </tr>
   </thead>
