@@ -16,13 +16,13 @@
   <thead>
     <tr>
       <th>
-        <img alt="Linux" src="https://www.kernel.org/theme/images/logos/tux.png" />
+        <img alt="Linux" src="https://www.kernel.org/theme/images/logos/tux.png" width="30" />
       </th>
       <th>
-        <img alt="Pop OS" src="https://img.shields.io/badge/Pop%20os-fff.svg?style=for-the-badge&logo=popos&logoColor=#0082DC" />
+        <img alt="Pop OS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Pop%21_OS_Icon.svg/512px-Pop%21_OS_Icon.svg.png?20230629012841" width="30" />
       </th>
       <th>
-        <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+        <img alt="Shell Script" src="https://img.shields.io/badge/--%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
       </th>
       <th>
         <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -31,10 +31,10 @@
         <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
       </th>
       <th>
-        <img alt="CMake" src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white" />
+        <img alt="CMake" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/CMake_logo.svg/512px-CMake_logo.svg.png?20240825160757" width="30" />
       </th>
       <th>
-        <img alt="Meson" src="https://mesonbuild.com/assets/images/meson_logo.png" />
+        <img alt="Meson" src="https://mesonbuild.com/assets/images/meson_logo.png" width="30" />
       </th>
     </tr>
   </thead>
