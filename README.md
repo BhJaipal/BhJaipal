@@ -107,6 +107,9 @@
       <th>
         <img alt="MongoDB" src="https://www.mongodb.com/assets/images/global/favicon.ico" width="30" />
       </th>
+      <th>
+        <img alt="Sqlite" src="assets/sqlite.svg" width="30" />
+      </th>
     </tr>
   </thead>
 </table>
