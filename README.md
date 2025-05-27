@@ -22,13 +22,13 @@
         <img alt="Pop OS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Pop%21_OS_Icon.svg/512px-Pop%21_OS_Icon.svg.png?20230629012841" width="30" />
       </th>
       <th>
-        <img alt="Shell Script" src="https://img.shields.io/badge/--%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+        <img alt="Shell Script" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png?20180723054350" width="30" />
       </th>
       <th>
-        <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+        <img alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png?20170928190710" width="30" />
       </th>
       <th>
-        <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+        <img alt="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917" width="30" />
       </th>
       <th>
         <img alt="CMake" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/CMake_logo.svg/512px-CMake_logo.svg.png?20240825160757" width="30" />
@@ -46,10 +46,10 @@
   <thead>
     <tr>
       <th>
-        <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+        <img alt="Python" src="https://www.python.org/static/favicon.ico" width="30" />
       </th>
       <th>
-        <img alt="Go" src="https://img.shields.io/badge/GO-1867C0?style=for-the-badge&logo=go&logoColor=AEDDFF" />
+        <img alt="Go" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/512px-Go_Logo_Blue.svg.png?20191207190041" width="30" />
       </th>
     </tr>
   </thead>
@@ -78,9 +78,6 @@
       <th>
         <img alt="Nuxt 3" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt&logoColor=#00DC82" />
       </th>
-      <th>
-        <img alt="" src="" />
-      </th>
     </tr>
   </thead>
 </table>
@@ -91,10 +88,10 @@
   <thead>
     <tr>
       <th>
-        <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+        <img alt="Flutter" src="https://storage.googleapis.com/cms-storage-bucket/4fd0db61df0567c0f352.png" width="30" />
       </th>
       <th>
-        <img alt="GTK" src="https://www.gtk.org/assets/img/logo-gtk-sm.png" width="20px" />
+        <img alt="GTK" src="https://www.gtk.org/assets/img/logo-gtk-sm.png" width="30" />
       </th>
     </tr>
   </thead>
@@ -114,8 +111,18 @@
 
 ## Necessary
 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+<table>
+  <thead>
+    <tr>
+      <th>
+        <img alt="Markdown" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/1280px_Markdown_with_White_Background.png/960px-1280px_Markdown_with_White_Background.png?20201012215436" width="30" />
+      </th>
+      <th>
+        <img alt="Git" src="https://git-scm.com/favicon.ico" " width="30" />
+      </th>
+    </tr>
+  </thead>
+</table>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BhJaipal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
