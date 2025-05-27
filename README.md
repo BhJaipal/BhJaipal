@@ -16,7 +16,7 @@
   <thead>
     <tr>
       <th>
-        <img alt="Linux" src="https://img.shields.io/badge/Linux-fff.svg?style=for-the-badge&logo=linux&logoColor=black" />
+        <img alt="Linux" src="https://www.kernel.org/theme/images/logos/tux.png" />
       </th>
       <th>
         <img alt="Pop OS" src="https://img.shields.io/badge/Pop%20os-fff.svg?style=for-the-badge&logo=popos&logoColor=#0082DC" />
@@ -32,6 +32,9 @@
       </th>
       <th>
         <img alt="CMake" src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white" />
+      </th>
+      <th>
+        <img alt="Meson" src="https://mesonbuild.com/assets/images/meson_logo.png" />
       </th>
     </tr>
   </thead>
