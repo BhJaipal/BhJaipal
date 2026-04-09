@@ -1,5 +1,7 @@
 # 💫 About Me:
 
+## Moving to Codeberg cuz Microslop is ruining github, [BhJaipal](https://https://codeberg.org/BhJaipal/)
+
 🔭 I’m mostly use on C/C++, some rust, Go and TS <br>
 🌱 I love working in Low level programming<br>
 💬 You can ask me about C/C++, Rust, Nuxt and vue<br>
